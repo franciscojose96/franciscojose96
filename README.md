@@ -31,7 +31,7 @@
     
 </div><br>
 
-### Apaixonado por tecnoligia! 
+### Apaixonado por tecnologia! 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscojose96)](https://github.com/anuraghazra/github-readme-stats)
 
